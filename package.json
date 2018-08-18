@@ -1,0 +1,17 @@
+{
+  "name": "optimize",
+  "version": "1.0.0",
+  "description": "Optimize all kinds of assets",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Optimize"
+  ],
+  "author": "Alberto Cristancho",
+  "license": "ISC",
+  "dependencies": {
+    "imagemin": "^6.0.0"
+  }
+}
